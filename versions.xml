@@ -6,10 +6,12 @@
     <!-- v1.1.0 -->
     <item>
       <title>Android Release</title>
+      <description>Uses in-app-update and fixes bugs related to photo uploads/description>
       <enclosure sparkle:version="1.1.0" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape"/>
     </item>
     <item>
       <title>iOS Release</title>
+      <description>Uses in-app-update and fixes bugs related to photo uploads</description>
       <enclosure sparkle:version="1.1.0" sparkle:os="ios" url="https://apps.apple.com/ca/app/escape-platforms/id6477789767"/>
     </item>
   </channel>
