@@ -2,7 +2,7 @@
 <notice>
     <item>
         <title>First Blog Post</title>
-        <version>1.1</version>
+        <version>1.0</version>
         <description>This is the first blog post on Example Blog.</description>
         <link>https://www.example.com/notice</link>
        <pubDate>Mon, 07 Sep 2024 10:00:00 GMT</pubDate>
