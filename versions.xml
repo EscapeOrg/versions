@@ -3,17 +3,6 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
-    <!-- v1.2.0 -->
-    <item>
-      <title>Android Release v1.2.0</title>
-      <description> </description>
-      <enclosure sparkle:version="1.2.0" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape"/>
-    </item>
-    <item>
-      <title>iOS Release</title>
-      <description>Uses in-app-update and fixes bugs related to photo uploads</description>
-      <enclosure sparkle:version="1.2.0" sparkle:os="ios" url="https://apps.apple.com/ca/app/escape-platforms/id6477789767"/>
-    </item>
     <!-- v1.1.0 -->
     <item>
       <title>Android Release</title>
