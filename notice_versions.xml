@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notice>
     <item>
-        <title>First Blog Post223323424</title>
-        <version>1.11</version>
-        <description>This is the first blog post on Example Blog.</description>
-        <link>https://www.example.com/notice</link>
-       <pubDate>Mon, 07 Sep 2024 10:00:00 GMT</pubDate>
+        <title>New Version Released</title>
+        <version>1.0</version>
+        <description></description>
+        <link></link>
+        <pubDate></pubDate>
     </item>
 </notice>
