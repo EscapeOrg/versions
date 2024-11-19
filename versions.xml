@@ -3,7 +3,7 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
-    <!-- v1.1.1 -->
+    <!-- v1.1.2 -->
     <item>
       <title>Android Release</title>
       <description>Uses in-app-update and fixes bugs related to photo uploads</description>
