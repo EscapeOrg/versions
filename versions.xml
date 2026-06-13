@@ -3,6 +3,7 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
+    <!-- v2.3.1 -->
     <!-- v2.3.0 -->
     <item>
       <title>Android Release</title>
