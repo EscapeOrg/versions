@@ -6,12 +6,12 @@
      <!-- v2.3.22-->
     <item>
       <title>Android Release</title>
-      <description>Organizer hub upgrades, vibe matches, and bug fixes</description>
+      <description>Group ticket buying, sold-out accept flow for hosts, scanner and sign-in fixes</description>
       <enclosure sparkle:version="2.3.22" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape"/>
     </item>
     <item>
       <title>iOS Release</title>
-      <description>Organizer hub upgrades, vibe matches, and bug fixes</description>
+      <description>Group ticket buying, sold-out accept flow for hosts, scanner and sign-in fixes</description>
       <enclosure sparkle:version="2.3.22" sparkle:os="ios" url="https://apps.apple.com/ca/app/escape-platforms/id6477789767"/>
     </item>
     <!-- v2.3.16-->
