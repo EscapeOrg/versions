@@ -3,6 +3,17 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
+    <!-- v2.3.44-->
+    <item>
+      <title>Android Release</title>
+      <description>Search any list, age limits for events, open chats you can name and manage, and bug fixes</description>
+      <enclosure sparkle:version="2.3.44" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape"/>
+    </item>
+    <item>
+      <title>iOS Release</title>
+      <description>Search any list, age limits for events, open chats you can name and manage, and bug fixes</description>
+      <enclosure sparkle:version="2.3.44" sparkle:os="ios" url="https://apps.apple.com/ca/app/escape-platforms/id6477789767"/>
+    </item>
     <!-- v2.3.41-->
     <item>
       <title>Android Release</title>
