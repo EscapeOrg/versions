@@ -3,6 +3,17 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Releases</title>
+    <!-- v2.3.45-->
+    <item>
+      <title>Android Release</title>
+      <description>Add all your contacts at once, verify your email, improved translations, and bug fixes</description>
+      <enclosure sparkle:version="2.3.45" sparkle:os="android" url="https://play.google.com/store/apps/details?id=com.esc.escape"/>
+    </item>
+    <item>
+      <title>iOS Release</title>
+      <description>Add all your contacts at once, verify your email, improved translations, and bug fixes</description>
+      <enclosure sparkle:version="2.3.45" sparkle:os="ios" url="https://apps.apple.com/ca/app/escape-platforms/id6477789767"/>
+    </item>
     <!-- v2.3.44-->
     <item>
       <title>Android Release</title>
